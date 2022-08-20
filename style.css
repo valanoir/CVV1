@@ -1,0 +1,66 @@
+body{
+    background-color: #E6D2AA;
+}
+.mynav{
+    text-align:auto;
+}
+.image{
+    text-align: center;
+}
+#image{
+    width:70%;  
+    border-radius: 50%; 
+}
+.image-text{
+    padding-top: 3%;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    color:#42032C;
+}
+h1.intro{
+    font-size: 3.5rem;
+}
+p.intro{
+    font-size: 1.8rem;
+}
+hr{
+    border-style:none;
+    background-color:#E6D2AA;
+    border-top: dotted #42032C 10px  ;
+    border-bottom: none;;
+    width: 20%;
+    text-align: center;
+}
+/*About me*/
+#aboutme{
+    background-color: #F1EFDC;
+}
+.about-me{
+    font-family: 'Noto Sans', sans-serif;
+    padding:3% 7%;
+    color:#D36B00;
+}
+.about-text{
+    text-align: center;
+    color:#42032C;
+}
+.about-p{
+    color:black;
+}
+.list{
+    font-size: 1.2rem;
+}
+
+/*services*/
+ 
+.col-lg-4{
+    text-align: center;
+    padding:3%
+}
+
+/*footer*/
+#footer{
+    background-color: #F1EFDC;
+    padding:3%;
+    text-align: center;
+}
